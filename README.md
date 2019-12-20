@@ -22,10 +22,13 @@
 ```javascript
  var a = 1
  console.(a)
-
 ```
+![一张图片](1.jpg)
+
 下面也是代码
 
     var b = 2
     console.(b)
 
+我的网站是[sunkai.com]
+(http://sunkai.com）
